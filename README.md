@@ -13,3 +13,8 @@ As static and dynamic power are additives, each needs to be considered independe
 If two different programms run on the same CPU individually, as there is no power gating applied, only the dynamic power will be affected. The program that results in a higher dynamic power consumption is the program with the most flip-flop state changes. If power gating is applied, when the program is running the operating temperatute rises and increases the leakage power loss, so the static power can be affected depending on the usage of the processor.
 
 Because McPAT generates consumption numbers that refer to power and not power consumption per hour, time duration does not matter.
+
+2.
+
+Energy efficiency is given by the formula: ef = (idle consumption * idle time) + (work consumption * work time). So there is a chance that the second processor is more energy efficient as we dont know the work and idle times
+McPAT can't give us a clear view of energy efficiency as these time parameters are not given in the results. We can get access to these parameters by a gem5 simulation.

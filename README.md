@@ -17,3 +17,13 @@ Because McPAT generates consumption numbers that refer to power and not power co
 2.
 
 Energy efficiency is given by the formula: ef = (idle consumption * idle time) + (work consumption * work time). So there is a chance that the second processor is more energy efficient, as we dont know the work and idle times. McPAT can't give us a clear view of energy efficiency as these time parameters are not given in the results. We can get access to these parameters by a gem5 simulation.
+
+3.
+
+**Part 2**
+
+---
+
+1.
+
+The Energy is calculated by the formula: Total energy = Core.Subthreshold Leakage + Core.Gate Leakage + Core.Runtime Dynamic + L2.Subthreshold Leakage + L2.Gate Leakage + L2.Runtime Dynamic, though L2.Subthreshold Leakage and L2.Gate Leakage were really minor.

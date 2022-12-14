@@ -26,6 +26,8 @@ Energy efficiency is given by the formula: ef = (idle consumption * idle time) +
 
 1.
 
+EDAP = Energy * Delay * Area
+
 Energy: Total energy = Core.Subthreshold Leakage + Core.Gate Leakage + Core.Runtime Dynamic + L2.Subthreshold Leakage + L2.Gate Leakage + L2.Runtime Dynamic.
 
 Delay: Total delay = the execution time of the program

@@ -26,4 +26,9 @@ Energy efficiency is given by the formula: ef = (idle consumption * idle time) +
 
 1.
 
-The Energy is calculated by the formula: Total energy = Core.Subthreshold Leakage + Core.Gate Leakage + Core.Runtime Dynamic + L2.Subthreshold Leakage + L2.Gate Leakage + L2.Runtime Dynamic.
+Energy: Total energy = Core.Subthreshold Leakage + Core.Gate Leakage + Core.Runtime Dynamic + L2.Subthreshold Leakage + L2.Gate Leakage + L2.Runtime Dynamic.
+
+Delay: Total delay = the execution time of the program
+
+Area: Total area = Processor.Area
+

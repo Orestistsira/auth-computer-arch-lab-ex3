@@ -110,7 +110,7 @@ As the peak power of set 8 is not that higher we think that set 8 { L1_D_Ass=2 L
 
 **{1, 10}**
 
-<img src="./images/Picture4.jpg" width="700" height="480">
+<img src="./images/Picture4.jpg" width="800" height="480">
 
 Set 1 gives as by far the lowest peak power, although set 10 is better for CPI.
 

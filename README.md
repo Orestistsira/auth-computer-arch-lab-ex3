@@ -34,7 +34,7 @@ Xeon: Processor.Peak Power = 134.938 W
 
 A9: Processor.Peak Power = 1.74189 W
 
-Let's say the program on Xeon runs in 1 hour, so the Xeon CPU consumes 140x1=140Wh on full work state. From the assignment we get that the program on A9 will be 50 times slower and it will run in 50 hours, so the A9 CPU consumes 1.7*50=85Wh on full work state. So, even if the CPU goes off after finishing the program, it's clear that the A9 is more energy efficient than the Xeon as it consumes less Wh to complete the execution. If the CPU stays on idle after the execution, the Xeon processor will consume even more energy due to static power (leakage). In conclusion, the A9 processor is more energy efficient than the Xeon, even though the later is much faster on executing the program.
+Let's say the program on Xeon runs in 2 hours, so the Xeon CPU consumes 135x2=270Wh on full work state. From the assignment we get that the program on A9 will be 50 times slower and it will run in 100 hours, so the A9 CPU consumes 1.74*100=174Wh on full work state. So, even if the CPU goes off after finishing the program, it's clear that the A9 is more energy efficient than the Xeon as it consumes less Wh to complete the execution. If the CPU stays on idle after the execution, the Xeon processor will consume even more energy due to static power (leakage). In conclusion, the A9 processor is more energy efficient than the Xeon, even though the later is much faster on executing the program.
 
 ---
 

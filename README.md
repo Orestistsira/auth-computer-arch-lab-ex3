@@ -22,7 +22,7 @@ If two different programms run on the same CPU individually, when there is no po
 
 Power gating is a technique used in integrated circuit design to reduce power consumption, by shutting off the current to blocks of the circuit that are not in use. In addition to reducing stand-by or leakage power, power gating has the benefit of enabling Iddq testing.
 
-Because McPAT generates consumption numbers that refer to power and not power consumption per hour, time duration does not matter.
+Time duration of a program does not matter to dynamic and static power, because as the time passes the number of flip-flop state changes don't increase.
 
 2.
 

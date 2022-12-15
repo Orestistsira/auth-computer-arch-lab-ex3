@@ -69,20 +69,20 @@ Energy consumption values using the EDAP function:
 
 **{1, 2, 3}**
 
-<img src="./images/Picture1.jpg" width="500" height="430">
+<img src="./images/Picture1.jpg" width="600" height="430">
 
 
 **{1, 4, 5, 6}**
 
-<img src="./images/Picture2.jpg" width="500" height="430">
+<img src="./images/Picture2.jpg" width="600" height="430">
 
 
 **{7, 8, 9}**
 
-<img src="./images/Picture3.jpg" width="500" height="430">
+<img src="./images/Picture3.jpg" width="600" height="430">
 
 
 **{1, 10}**
 
-<img src="./images/Picture4.jpg" width="500" height="430">
+<img src="./images/Picture4.jpg" width="600" height="430">
 

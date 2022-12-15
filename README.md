@@ -176,7 +176,7 @@ Cache_line_size = 64
 
 For the parameters that are the same for both architectures above, we keep them as they are.
 
-For L2: 2MB Cache size has better performance and is much more energy efficient than an L2 with 512kB, although it is more expensive to manufacture because of its large size. We think that **L2 = 2MB** would be better for our architecture as the pros outweigh the cons.
+For L2: 2MB Cache size has better performance and is only a little less energy efficient than an L2 with 512kB, although it is more expensive to manufacture because of its large size. We think that **L2 = 2MB** would be better for our architecture, as we believe the gain on performance outweighs the cons.
 
 So we decided that the architecture from this lab (Max Performance from lab 3) would be the best choice for our CPU Cache design.
 

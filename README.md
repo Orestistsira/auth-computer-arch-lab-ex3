@@ -43,6 +43,8 @@ Delay: Total delay = the execution time of the program
 
 Area: Total area = Core.Area + L2.Area
 
+Energy consumption using the EDAP function:
+
 2.
 
 | Set Parameter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -54,4 +56,31 @@ Area: Total area = Core.Area + L2.Area
 | L1\_d\_assoc | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 2 |
 | L2\_assoc | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 |
 | Cache line | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 128 |
+
+**{1, 2, 3}**
+
+<img src="./images/Picture6.jpg" width="400" height="330"> <img src="./images/Picture7.jpg" width="400" height="330">
+<img src="./images/Picture8.jpg" width="400" height="330"> <img src="./images/Picture9.jpg" width="400" height="330">
+<img src="./images/Picture10.jpg" width="400" height="330">
+
+
+**{1, 4, 5, 6}**
+
+<img src="./images/Picture11.jpg" width="400" height="330"> <img src="./images/Picture12.jpg" width="400" height="330">
+<img src="./images/Picture13.jpg" width="400" height="330"> <img src="./images/Picture14.jpg" width="400" height="330">
+<img src="./images/Picture15.jpg" width="400" height="330">
+
+
+**{7, 8, 9}**
+
+<img src="./images/Picture16.jpg" width="400" height="330"> <img src="./images/Picture17.jpg" width="400" height="330">
+<img src="./images/Picture18.jpg" width="400" height="330"> <img src="./images/Picture19.jpg" width="400" height="330">
+<img src="./images/Picture20.jpg" width="400" height="330">
+
+
+**{1, 10}**
+
+<img src="./images/Picture21.jpg" width="400" height="330"> <img src="./images/Picture22.jpg" width="400" height="330">
+<img src="./images/Picture23.jpg" width="400" height="330"> <img src="./images/Picture24.jpg" width="400" height="330">
+<img src="./images/Picture25.jpg" width="400" height="330">
 

@@ -54,7 +54,6 @@ Area: Total area = Core.Area + L2.Area
 
 Energy consumption values using the EDAP function:
 
-2.
 
 | Set Parameter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,6 +64,8 @@ Energy consumption values using the EDAP function:
 | L1\_d\_assoc | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 2 |
 | L2\_assoc | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 |
 | Cache line | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 128 |
+
+2.
 
 **{1, 2, 3}**
 

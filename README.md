@@ -156,7 +156,7 @@ Cache_line_size = 64
 
 ---
 
-**Best Architecture from lab 3: Energy Efficiency** (taking into account lab 2 for small differences)
+**Best Architecture from lab 3: Energy Efficiency** (taking into account lab 2)
 
 L1_Data = 32kB
 

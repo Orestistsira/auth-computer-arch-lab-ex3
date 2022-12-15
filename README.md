@@ -1,5 +1,13 @@
 # auth-computer-arch-lab-ex3
 
+**Lab 2**
+
+*Tsirakis Orestis (9995)*
+
+*Iliana Kogia (10090)*
+
+---
+
 **Part 1**
 
 ---

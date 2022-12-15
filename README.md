@@ -52,7 +52,7 @@ Delay: Total delay = the execution time of the program
 
 Area: Total area = Core.Area + L2.Area
 
-Set parameters from lab 2
+Set parameters from lab 2:
 
 | Set Parameter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -120,5 +120,5 @@ So we think that set1 { Cache_Line_Size = 64 } would be the best choice.
 
 3.
 
-As we have know reviewed our architectures taking into account performance, cost and energy efficiency, we have
+As we have know reviewed our architectures taking into account performance, cost and energy efficiency, we have all the tools to decide on an ideal architecture.
 

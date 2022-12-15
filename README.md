@@ -35,7 +35,7 @@ Let's say the program on Xeon runs in 1 hour, so the Xeon CPU consumes 140x1=140
 
 1.
 
-**EDAP = Energy * Delay * Area**, Where:
+**EDAP = Energy x Delay x Area**, Where:
 
 Energy: Total energy = Core.Subthreshold Leakage + Core.Gate Leakage + Core.Runtime Dynamic + L2.Subthreshold Leakage + L2.Gate Leakage + L2.Runtime Dynamic.
 

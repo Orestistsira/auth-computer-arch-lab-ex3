@@ -43,7 +43,7 @@ Delay: Total delay = the execution time of the program
 
 Area: Total area = Core.Area + L2.Area
 
-Energy consumption using the EDAP function:
+Energy consumption values using the EDAP function:
 
 2.
 

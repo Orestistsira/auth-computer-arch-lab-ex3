@@ -69,28 +69,28 @@ Energy consumption values using the EDAP function:
 
 **{1, 2, 3}**
 
-<img src="./images/Picture1.jpg" width="400" height="330"> <img src="./images/Picture2.jpg" width="400" height="330">
-<img src="./images/Picture3.jpg" width="400" height="330"> <img src="./images/Picture4.jpg" width="400" height="330">
-<img src="./images/Picture5.jpg" width="400" height="330">
+<img src="./images/Picture1.jpg" width="400" height="330"> <img src="./images/Picture5.jpg" width="400" height="330">
+<img src="./images/Picture9.jpg" width="400" height="330"> <img src="./images/Picture13.jpg" width="400" height="330">
+<img src="./images/Picture17.jpg" width="400" height="330">
 
 
 **{1, 4, 5, 6}**
 
-<img src="./images/Picture6.jpg" width="400" height="330"> <img src="./images/Picture7.jpg" width="400" height="330">
-<img src="./images/Picture8.jpg" width="400" height="330"> <img src="./images/Picture9.jpg" width="400" height="330">
-<img src="./images/Picture10.jpg" width="400" height="330">
+<img src="./images/Picture2.jpg" width="400" height="330"> <img src="./images/Picture6.jpg" width="400" height="330">
+<img src="./images/Picture10.jpg" width="400" height="330"> <img src="./images/Picture14.jpg" width="400" height="330">
+<img src="./images/Picture18.jpg" width="400" height="330">
 
 
 **{7, 8, 9}**
 
-<img src="./images/Picture11.jpg" width="400" height="330"> <img src="./images/Picture12.jpg" width="400" height="330">
-<img src="./images/Picture13.jpg" width="400" height="330"> <img src="./images/Picture14.jpg" width="400" height="330">
-<img src="./images/Picture15.jpg" width="400" height="330">
+<img src="./images/Picture3.jpg" width="400" height="330"> <img src="./images/Picture7.jpg" width="400" height="330">
+<img src="./images/Picture11.jpg" width="400" height="330"> <img src="./images/Picture15.jpg" width="400" height="330">
+<img src="./images/Picture19.jpg" width="400" height="330">
 
 
 **{1, 10}**
 
-<img src="./images/Picture16.jpg" width="400" height="330"> <img src="./images/Picture17.jpg" width="400" height="330">
-<img src="./images/Picture18.jpg" width="400" height="330"> <img src="./images/Picture19.jpg" width="400" height="330">
+<img src="./images/Picture4.jpg" width="400" height="330"> <img src="./images/Picture8.jpg" width="400" height="330">
+<img src="./images/Picture12.jpg" width="400" height="330"> <img src="./images/Picture16.jpg" width="400" height="330">
 <img src="./images/Picture20.jpg" width="400" height="330">
 

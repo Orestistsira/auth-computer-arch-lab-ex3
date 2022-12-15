@@ -132,7 +132,7 @@ L1_Data = 32kB
 
 L1_Instruction = 32kB
 
-L2 = 256MB
+L2 = 512kB
 
 L1_D_Ass = 2
 
@@ -146,7 +146,7 @@ Cache_line_size = 128
 
 ---
 
-**Max Performance from energy efficiency: Energy Efficiency**
+**Max Performance from lab 3: Energy Efficiency**
 
 L1_Data = 32kB
 
@@ -163,4 +163,10 @@ L2_Ass = 4
 Cache_line_size = 64
 
 ---
+
+For the parameters that are the same for both architectures above, we keep them as they are.
+
+For L2: 2MB Cache size has better performance and is much more energy efficient than an L2 with 512kB, although it is more expensive to manufacture because of its large size. We think that **L2 = 2MB** would be better for our architecture as the pros outweigh the cons.
+
+For Cache Line Size: 
 

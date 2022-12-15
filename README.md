@@ -18,7 +18,7 @@ Power dissipation in a circuit is dynamic or static.
 
 As static and dynamic power are additives, each needs to be considered independently. Static power, which is also defined as “leakage,” is consumed in the absence of any design activity. It is highly associated with the current flowing through the transistor in idle state determined by the transistor attributes. Dynamic power is associated with the activity in the design influenced by the volume of data that the design has to process in a given time unit by switching the transistors between on and off states.
 
-If two different programms run on the same CPU individually, as there is no power gating applied, only the dynamic power will be affected. The program that results in a higher dynamic power consumption is the program with the most flip-flop state changes. If power gating is applied, when the program is running the operating temperatute rises and increases the leakage power loss, so the static power can be affected depending on the usage of the processor.
+If two different programms run on the same CPU individually, when there is no power gating applied, only the dynamic power will be affected. The program that results in a higher dynamic power consumption is the program with the most flip-flop state changes. If power gating is applied, when the program is running  the leakage power loss decreases, so the static power can be affected depending on the usage of the processor.
 
 Power gating is a technique used in integrated circuit design to reduce power consumption, by shutting off the current to blocks of the circuit that are not in use. In addition to reducing stand-by or leakage power, power gating has the benefit of enabling Iddq testing.
 

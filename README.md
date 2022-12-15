@@ -112,7 +112,7 @@ As we increase the L1 associativity the peak power rises, but only for a small a
 
 Set 7 and 9 give us the lowest peak power, but set 8 gives us by far the best CPI for all the benchmarks.
 
-As the peak power of set 8 is not that higher we think that set 8 **{ L1_D_Ass=2 L1_I_Ass=2 L2_Ass=4 }** is the best choice.
+As the peak power of set 8 is not that greater grom the others, we think that set 8 **{ L1_D_Ass=2 L1_I_Ass=2 L2_Ass=4 }** is the best choice.
 
 **{1, 10}**
 
@@ -156,7 +156,7 @@ Cache_line_size = 64
 
 ---
 
-**Best Architecture from lab 3: Energy Efficiency** (taking into account lab 2)
+**Best Architecture from lab 3: Energy Efficiency** (taking into account lab 2 for small differences)
 
 L1_Data = 32kB
 

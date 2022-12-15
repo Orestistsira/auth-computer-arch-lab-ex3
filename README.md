@@ -136,7 +136,7 @@ As we have know reviewed our architectures taking into account performance, cost
 
 ---
 
-**Max Performance from lab 2: Performance and Cost**
+**Best Architecture from lab 2: Performance and Cost**
 
 L1_Data = 32kB
 
@@ -156,7 +156,7 @@ Cache_line_size = 64
 
 ---
 
-**Max Performance from lab 3: Energy Efficiency**
+**Best Architecture from lab 3: Energy Efficiency**
 
 L1_Data = 32kB
 

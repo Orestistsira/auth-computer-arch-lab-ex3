@@ -1,6 +1,6 @@
 # auth-computer-arch-lab-ex3
 
-**Lab 2**
+**Lab 3**
 
 *Tsirakis Orestis (9995)*
 

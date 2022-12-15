@@ -85,7 +85,7 @@ Energy consumption values using the EDAP function:
 
 <img src="./images/Picture1.jpg" width="800" height="480">
 
-Observations:
+As we reduce L1 cache size the peak power decreases.
 
 Set parameter 1 and 3 give us the lowest peak power, and for set 1 we also get the optimum CPI from lab 2.
 
@@ -96,6 +96,8 @@ So we think that set 1 **{ L1_D=32kB, L1_I=32kB }** would be the best choice.
 
 <img src="./images/Picture2.jpg" width="800" height="480">
 
+As we change L2 cache size the peak power stays almost the same, in set 6 that we change also the L1 size peak power rises.
+
 Set 1, 4 and 5 are close to the lowest peak power, and for set 5 we also get the optimum CPI for the most benchmarks from lab 2. 
 
 So we think that set 5 **{ L2=2MB }** would be the best choice.
@@ -103,6 +105,8 @@ So we think that set 5 **{ L2=2MB }** would be the best choice.
 **{7, 8, 9}**
 
 <img src="./images/Picture3.jpg" width="800" height="480">
+
+As we increase the L1 associativity the peak power rises, but only for a small amount.
 
 Set 7 and 9 give us the lowest peak power, but set 8 gives us by far the best CPI for all the benchmarks.
 
@@ -112,11 +116,15 @@ As the peak power of set 8 is not that higher we think that set 8 **{ L1_D_Ass=2
 
 <img src="./images/Picture4.jpg" width="800" height="480">
 
+As we increase the Cache Line Size the peak power rises by a large amount, and by doubling it the peak power increases four times.
+
 Set 1 gives as by far the lowest peak power, although set 10 is better for CPI.
 
 From lab 2 we got that Cache_Line_Size = 128 would increase the cost and as we see know it is not at all energy efficient
 
 So we think that set1 **{ Cache_Line_Size = 64 }** would be the best choice.
+
+**Observations: L1 Cache and Cache Line Size plays a huge part on energy efficiency.**
 
 3.
 

@@ -32,5 +32,5 @@ Energy: Total energy = Core.Subthreshold Leakage + Core.Gate Leakage + Core.Runt
 
 Delay: Total delay = the execution time of the program
 
-Area: Total area = Processor.Area
+Area: Total area = Core.Area + L2.Area
 

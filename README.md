@@ -124,6 +124,8 @@ As we have know reviewed our architectures taking into account performance, cost
 
 ---
 
+---
+
 **Max Performance from lab 2:**
 
 L1_Data = 32kB

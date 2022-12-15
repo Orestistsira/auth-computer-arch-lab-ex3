@@ -114,7 +114,7 @@ As the peak power of set 8 is not that higher we think that set 8 **{ L1_D_Ass=2
 
 Set 1 gives as by far the lowest peak power, although set 10 is better for CPI.
 
-From lab 2 we got that Cache_Line_Size = 128 would increase the cost and as we see know it is not all energy efficient
+From lab 2 we got that Cache_Line_Size = 128 would increase the cost and as we see know it is not at all energy efficient
 
 So we think that set1 **{ Cache_Line_Size = 64 }** would be the best choice.
 
@@ -140,7 +140,7 @@ L1_I_Ass = 2
 
 L2_Ass = 4
 
-Cache_line_size = 128
+Cache_line_size = 64
 
 ---
 
@@ -168,5 +168,6 @@ For the parameters that are the same for both architectures above, we keep them 
 
 For L2: 2MB Cache size has better performance and is much more energy efficient than an L2 with 512kB, although it is more expensive to manufacture because of its large size. We think that **L2 = 2MB** would be better for our architecture as the pros outweigh the cons.
 
-For Cache Line Size: 
+So we decided that the architecture from this lab (Max Performance from lab 3) would be the best choice for our CPU Cache design.
+
 

@@ -20,6 +20,15 @@ Energy efficiency is given by the formula: ef = (idle consumption * idle time) +
 
 3.
 
+Xeon -> 50 times faster than A9
+
+Xeon: Processor.Peak Power = 134.938 W
+
+A9: Processor.Peak Power = 1.74189 W
+
+Let's say the program on Xeon runs in 1 hour, so the Xeon CPU consumes 140x1=140Wh on full work state. From the assignment we get that the program on A9 will be 50 times slower and it will run in 50 hours, so the A9 CPU consumes 1.7*50=85Wh on full work state. So, even if the CPU goes off after finishing the program it's clear that the A9 is more energy efficient than the Xeon as it consumes less Wh to complete the execution. If the CPU stays idle after the execution, the Xeon processor will consume even more energy due to static power (leakage).
+
+
 **Part 2**
 
 ---

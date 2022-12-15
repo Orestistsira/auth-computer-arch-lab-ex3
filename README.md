@@ -123,9 +123,8 @@ So we think that set1 { Cache_Line_Size = 64 } would be the best choice.
 As we have know reviewed our architectures taking into account performance, cost and energy efficiency, we have all the tools to decide on an ideal architecture.
 
 ---
-**NOTE**
 
-Max Performance from lab 2:
+**Max Performance from lab 2:**
 
 L1_Data = 32kB
 
@@ -144,9 +143,8 @@ Cache_line_size = 128
 ---
 
 ---
-**NOTE**
 
-Max Performance from energy efficiency:
+**Max Performance from energy efficiency:**
 
 L1_Data = 32kB
 

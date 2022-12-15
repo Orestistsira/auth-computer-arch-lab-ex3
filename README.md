@@ -52,8 +52,7 @@ Delay: Total delay = the execution time of the program
 
 Area: Total area = Core.Area + L2.Area
 
-Energy consumption values using the EDAP function:
-
+Set parameters from lab 2
 
 | Set Parameter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -64,6 +63,21 @@ Energy consumption values using the EDAP function:
 | L1\_d\_assoc | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 2 |
 | L2\_assoc | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 |
 | Cache line | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 64 | 128 |
+
+Energy consumption values using the EDAP function:
+
+| Set Parameters | bzip        | libm        | mcf         | sjeng       | spechmmer   |
+| - | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | 0.912259478 | 1.37091381  | 0.71394401  | 3.562322796 | 0.664368813 |
+| 2 | 1.869847378 | 2.793176075 | 1.317596356 | 7.325485994 | 1.321694329 |
+| 3 | 0.897093749 | 1.320001973 | 0.760758271 | 3.431419223 | 0.641161194 |
+| 4 | 0.858430159 | 1.256899422 | 0.655100343 | 3.264414131 | 0.6097836   |
+| 5 | 1.664559376 | 2.547374253 | 1.328206295 | 6.639469637 | 1.228675494 |
+| 6 | 1.803736749 | 2.61567844  | 1.239022689 | 6.872454634 | 1.241245806 |
+| 7 | 0.913162786 | 1.358605347 | 0.729704788 | 3.522758619 | 0.73672037  |
+| 8 | 0.911474351 | 1.370731924 | 0.713622022 | 3.561956853 | 0.664246242 |
+| 9 | 0.912311967 | 1.358270503 | 0.729373947 | 3.522381859 | 0.736590532 |
+| 10 | 6.346390801 | 7.153359185 | 5.059286083 | 17.37271256 | 4.47767789  |
 
 2.
 
@@ -103,4 +117,8 @@ Set 1 gives as by far the lowest peak power, although set 10 is better for CPI.
 From lab 2 we got that Cache_Line_Size = 128 would increase the cost and as we see know it is not all energy efficient
 
 So we think that set1 { Cache_Line_Size = 64 } would be the best choice.
+
+3.
+
+As we have know reviewed our architectures taking into account performance, cost and energy efficiency, we have
 

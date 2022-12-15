@@ -100,9 +100,9 @@ So we think that set 1 **{ L1_D=32kB, L1_I=32kB }** would be the best choice.
 
 As we change L2 cache size the peak power stays almost the same, in set 6 that we change also the L1 size peak power rises.
 
-Set 1, 4 and 5 are close to the lowest peak power, and for set 5 we also get the optimum CPI for the most benchmarks from lab 2. 
+Set 1 and 4 are close to the lowest peak power, and for set 1 we also get close to the optimum CPI for the most benchmarks from lab 2. 
 
-So we think that set 5 **{ L2=2MB }** would be the best choice.
+So we think that set 5 **{ L2=512kB }** would be the best choice.
 
 **{7, 8, 9}**
 
@@ -162,7 +162,7 @@ L1_Data = 32kB
 
 L1_Instruction = 32kB
 
-L2 = 2MB
+L2 = 512kB
 
 L1_D_Ass = 2
 

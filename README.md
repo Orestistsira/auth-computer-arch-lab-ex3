@@ -20,6 +20,8 @@ As static and dynamic power are additives, each needs to be considered independe
 
 If two different programms run on the same CPU individually, as there is no power gating applied, only the dynamic power will be affected. The program that results in a higher dynamic power consumption is the program with the most flip-flop state changes. If power gating is applied, when the program is running the operating temperatute rises and increases the leakage power loss, so the static power can be affected depending on the usage of the processor.
 
+Power gating is a technique used in integrated circuit design to reduce power consumption, by shutting off the current to blocks of the circuit that are not in use. In addition to reducing stand-by or leakage power, power gating has the benefit of enabling Iddq testing.
+
 Because McPAT generates consumption numbers that refer to power and not power consumption per hour, time duration does not matter.
 
 2.

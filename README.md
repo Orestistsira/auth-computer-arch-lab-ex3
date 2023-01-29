@@ -176,6 +176,14 @@ Cache_line_size = 64
 
 So, from both labs we observe that this is the best architecture for balancing performance, cost and energy efficiency and would be the best choice for our CPU Cache design.
 
+---
+
+Referances:
+
+[https://www.sciencedirect.com/topics/computer-science/dynamic-power-dissipation](https://www.sciencedirect.com/topics/computer-science/dynamic-power-dissipation)
+
+---
+
 Κριτική:
 
 Το 3ο εργαστήριο βοήθησε να αποκτήσουμε μια πιο σφαιρική αντιληψη πάνω στη σχεδίαση μιας αρχιτεκτονικής, καθως πλέον δεν μετρούσαμε για τη λήψη της αποφασης μόνο την απόδοση και το κόστος αλλά και αλλους παραγοντες που αφορούν την ενεργειακή αποδοτικότητα. Αν εξαιρέσουμε τα πρακτικά προβλήματα στήν εκτέλεση των προσομοιώσεων στο McPAT, η τρίτη εργασία βοήθησε σε συνδυασμό με την δεύτερη να κατανοήσουμε τις δυσκολίες που μπορεί υπάρξουν στη σύγκριση διαφόρων αρχιτεκτονικών και κατ’ επέκταση στη τελική επιλογή.

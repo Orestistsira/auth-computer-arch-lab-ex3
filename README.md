@@ -172,7 +172,7 @@ L2_Ass = 4
 
 Cache_line_size = 64
 
----
+**Conclusions**
 
 So, from both labs we observe that this is the best architecture for balancing performance, cost and energy efficiency and would be the best choice for our CPU Cache design.
 

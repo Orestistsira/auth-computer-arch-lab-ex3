@@ -186,6 +186,8 @@ Referances:
 
 [https://www.sciencedirect.com/topics/computer-science/dynamic-power-dissipation](https://www.sciencedirect.com/topics/computer-science/dynamic-power-dissipation)
 
+[https://asic-soc.blogspot.com/2008/04/power-gating.html](https://asic-soc.blogspot.com/2008/04/power-gating.html)
+
 ---
 
 Κριτική:
